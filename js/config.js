@@ -36,10 +36,12 @@ const CONFIG = {
 
   chance: {
     title: "Will you give me another chance?",
-    text: ["I can’t promise I’ll be perfect. I can promise I’ll try, every day, and that you’ll never doubt how much you matter to me."
-           "yrr can we be friends again and talk just one time just like friends ek baar dosti kerlo beshaq 2nd year ke bad kerlena "
-           "mager please mujhe friendship ka moqa dena i want to talk to you aur is website ke akiri page pe option hai jis se ap aur mein "
-           "baat ker sakte hain ghar jake ek bar msg kerdena ispe ek zaroori baat apse karni hai please"],
+    text: [
+       "I can’t promise I’ll be perfect. I can promise I’ll try, every day, and that you’ll never doubt how much you matter to me.",
+           "yrr can we be friends again and talk just one time just like friends ek baar dosti kerlo beshaq 2nd year ke bad kerlena ",
+           "mager please mujhe friendship ka moqa dena i want to talk to you aur is website ke akiri page pe option hai jis se ap aur mein ",
+           "baat ker sakte hain ghar jake ek bar msg kerdena ispe ek zaroori baat apse karni hai please",
+    ],
     yes: "Yes 💕",
     maybe: "Let me think 🥺",
     maybeReplies: ["Are you sure? 🥺", "Please? 💗", "Pretty please…", "I’ll wait forever 🌹", "Just press Yes 😭"]
