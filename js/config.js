@@ -27,16 +27,19 @@ const CONFIG = {
   apology: {
     title: "I owe you an apology",
     text: [
-      "I’m sorry for the moments I let you down, and for the words I didn’t say when they mattered.",
-      "You deserved patience, and I gave you less than that. I have thought about it more than you know.",
-      "Replace these lines with exactly what you want to say to her."
+      "yrr khansa I am really sorry yrr jo apke sath hua sahi nhi hua mujha pata tha lekin kasm se mein ye ni chata tha .",
+       "PLease forgive me from heart aur mera wada hai apse i will protect you in every case you need me and never be the",
+       "reason of ruiling your respect please be my friend "
     ],
     btn: "Next"
   },
 
   chance: {
     title: "Will you give me another chance?",
-    text: ["I can’t promise I’ll be perfect. I can promise I’ll try, every day, and that you’ll never doubt how much you matter to me."],
+    text: ["I can’t promise I’ll be perfect. I can promise I’ll try, every day, and that you’ll never doubt how much you matter to me."
+           "yrr can we be friends again and talk just one time just like friends ek baar dosti kerlo beshaq 2nd year ke bad kerlena "
+           "mager please mujhe friendship ka moqa dena i want to talk to you aur is website ke akiri page pe option hai jis se ap aur mein "
+           "baat ker sakte hain ghar jake ek bar msg kerdena ispe ek zaroori baat apse karni hai please"],
     yes: "Yes 💕",
     maybe: "Let me think 🥺",
     maybeReplies: ["Are you sure? 🥺", "Please? 💗", "Pretty please…", "I’ll wait forever 🌹", "Just press Yes 😭"]
