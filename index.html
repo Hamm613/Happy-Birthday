@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>For Khansa 💗</title>
+<meta name="theme-color" content="#3b0a1e">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="intro">
+<div id="fx" aria-hidden="true"></div>
+
+<header id="bar" hidden>
+  <div id="dots"><i></i><i></i><i></i><i></i></div>
+  <button id="music" aria-label="Play or pause music">♪</button>
+</header>
+
+<main id="stage">
+  <section class="page active" id="intro"><div class="wrap center">
+    <p class="small" data-t="intro.pre"></p>
+    <h1 class="script big" id="introName"></h1>
+    <button class="btn" id="begin" data-t="intro.btn"></button>
+  </div></section>
+
+  <section class="page" id="p0"><div class="wrap center">
+    <h1 class="script big" id="wishTitle" aria-label=""></h1>
+    <p class="date" data-t="wish.dateLine"></p>
+    <p class="count" id="count"></p>
+    <div class="panel body" data-t="wish.text"></div>
+    <button class="btn next" data-t="wish.btn"></button>
+  </div></section>
+
+  <section class="page" id="p1"><div class="wrap center">
+    <h2 class="script" data-t="apology.title"></h2>
+    <div class="panel body" data-t="apology.text"></div>
+    <button class="btn next" data-t="apology.btn"></button>
+  </div></section>
+
+  <section class="page" id="p2"><div class="wrap center">
+    <h2 class="script" data-t="chance.title"></h2>
+    <div class="panel body" data-t="chance.text"></div>
+    <p class="reply" id="reply" aria-live="polite"></p>
+    <div class="choices" id="choices">
+      <button class="btn" id="yes" data-t="chance.yes"></button>
+      <button class="btn ghost" id="maybe" data-t="chance.maybe"></button>
+    </div>
+  </div></section>
+
+  <section class="page" id="p3"><div class="wrap center final">
+    <h2 class="script big" data-t="final.title"></h2>
+    <div class="body" data-t="final.text"></div>
+    <button class="btn" id="openChat" data-t="final.chatBtn"></button>
+    <p class="sig" data-t="final.signature"></p>
+  </div></section>
+</main>
+
+<aside id="chat" aria-label="Chat with Hamza">
+  <header>
+    <button id="closeChat" aria-label="Close chat">‹</button>
+    <div class="av">H</div>
+    <div><strong data-t="chat.title"></strong><small><i id="dot"></i><span id="status">Connecting…</span></small></div>
+  </header>
+  <div id="msgs"></div>
+  <form id="send"><input id="txt" autocomplete="off" maxlength="800" aria-label="Message"><button class="btn" aria-label="Send">➤</button></form>
+</aside>
+
+<script src="js/config.js"></script>
+<script src="js/util.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
