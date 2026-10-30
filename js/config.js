@@ -28,8 +28,8 @@ const CONFIG = {
     title: "I owe you an apology",
     text: [
       "yrr khansa I am really sorry yrr jo apke sath hua sahi nhi hua mujha pata tha lekin kasm se mein ye ni chata tha .",
-       "PLease forgive me from heart aur mera wada hai apse i will protect you in every case you need me and never be the",
-       "reason of ruiling your respect please be my friend "
+       "Please forgive me from heart aur mera wada hai apse i will protect you in every case you need me and never be the",
+       "reason of ruiling your respect please be my friend again"
     ],
     btn: "Next"
   },
