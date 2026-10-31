@@ -30,7 +30,7 @@ const CONFIG = {
       "I’m sorry for the moments I let you down, and for the words I didn’t say when they mattered.",
       "You deserved patience, and I gave you less than that. I have thought about it more than you know.",
       "Khansa jo bhi ye fake I'd wala hua was so baad magr kasm se mera ye irada bilkul nhi ."
-       "iski wajah se mene apne dosto se bhi larai ii thi aur mere se jitna hua kiya  I am really really sorry "
+       "iski wajah se mene apne dosto se bhi larai ii thi aur mere se jitna hua kiya  I am really really sorry"
     ],
     btn: "Next"
   },
