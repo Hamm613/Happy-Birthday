@@ -19,7 +19,7 @@ const CONFIG = {
     text: [
       "On the ninth of November the world got one of its softest, brightest people, and I got to know her.",
       "I hope this year wraps you in the same warmth you give everyone else. You deserve every good thing, every single day.",
-      "Edit this paragraph with your own words, from the heart."
+      "May Allah give you long life aur Apke liye gift bhi hai but I can't give you because we are more friends because of me."
     ],
     btn: "Next 💖"
   },
@@ -29,7 +29,8 @@ const CONFIG = {
     text: [
       "I’m sorry for the moments I let you down, and for the words I didn’t say when they mattered.",
       "You deserved patience, and I gave you less than that. I have thought about it more than you know.",
-      "Replace these lines with exactly what you want to say to her."
+      "Khansa jo bhi ye fake I'd wala hua was so baad magr kasm se mera ye irada bilkul nhi ."
+       "iski wajah se mene apne dosto se bhi larai ii thi aur mere se jitna hua kiya  I am really really sorry "
     ],
     btn: "Next"
   },
